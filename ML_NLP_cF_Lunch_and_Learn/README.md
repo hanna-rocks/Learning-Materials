@@ -6,4 +6,4 @@
 
 [Link to meeting recording (restricted access)]()
 
-In addition to the slides, check out the attached [Python notebook](02-20-20_ML_NLP_Examples.ipynb) or [Jupyter slides](02-20-20_ML_NLP_Examples.slides.html) for fun examples! Viewing the notebook will allow you to see the speaker notes as well.
+In addition to the slides, check out the attached [Python notebook](02-20-20_ML_NLP_Examples.ipynb) or <a href="02-20-20_ML_NLP_Examples.slides.html" download>Jupyter slides</a> for fun examples! Viewing the notebook will allow you to see the speaker notes as well.
